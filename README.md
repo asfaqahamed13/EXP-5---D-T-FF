@@ -48,7 +48,7 @@ module tff (
 endmodule
 
 
-```
+
 ## Testbench Program
 
 // gedit tb5.v
@@ -156,8 +156,6 @@ In DVE:
 The waveform should agree with the truth table.
 
 ## Expected Result
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/65a95412-c9eb-418e-8e13-618ccd83d50b" />
-<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/710469fc-d40b-4454-9e1a-6489d48b0bb2" />
 
 
 
