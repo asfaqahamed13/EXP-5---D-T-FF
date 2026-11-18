@@ -166,10 +166,9 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 **## Output**
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 10 45 26 AM" src="https://github.com/user-attachments/assets/581b57e0-571e-4796-b2b9-bd4adc9e23e8" />
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 10 45 26 AM (1)" src="https://github.com/user-attachments/assets/f081d40d-b966-4c9e-ac50-c6e3f53ac50c" />
-
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 10 45 26 AM" src="https://github.com/user-attachments/assets/97d48a0f-9a92-4929-8799-b7900d863eff" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-18 at 10 45 26 AM (1)" src="https://github.com/user-attachments/assets/34944512-d98f-4755-a502-55f4e5668417" />
 
 
 
